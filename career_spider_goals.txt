@@ -1,0 +1,18 @@
+Goal - create a web crawler that does the following:
+		1) goes to employer sites>careers
+		1a) How to check for multiple sites, does this need to integrate into a webpage?
+		2) look for particular job types
+		3) extract data points
+		4) copy data points to a database (google forms)
+		5) collect corresponding salary data for job
+
+Short Term / Long Term
+  store results in file (text then CSV) / store in DB
+  site names are static / site names are prompted
+  initial search for site will look for careers page
+  next search will look for openings or posting, additionally externally hosted sites
+  Final search will be extracting the jobs specifically / asking for input on job title
+    ?Can this cross reference or search indeed first?
+	Finessing would be adding error handling.
+
+909090900909
